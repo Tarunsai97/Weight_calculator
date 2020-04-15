@@ -1,0 +1,24 @@
+body{
+    margin-top:70px;
+    background-color: #333;
+    color:#fff;
+}
+#output{
+    padding-top: 20px;
+}
+.card-primary{
+    background-color:blue;
+}
+.card-success{
+    background-color:green;
+}
+.card-danger{
+    background-color:red;
+}
+.card{
+    margin-bottom: 10px;
+}
+#IbsInput
+{
+    margin-top:10px;
+}
